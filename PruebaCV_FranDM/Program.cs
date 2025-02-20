@@ -6,6 +6,7 @@
         {
             // VARIBLES
             string nombreCompleto;
+            float nota;
             // ENTRADA
 
             // PROCESO
